@@ -11,9 +11,9 @@ The project was developed as part of the **Operating Systems** course at the Uni
 main_repository/
 │
 ├── client.c
-├── server.c
 ├── LICENSE
-└── README.md
+├── README.md
+└── server.c
 ```
 
 ---
