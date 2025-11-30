@@ -11,6 +11,7 @@ The project was developed as part of the **Operating Systems** course at the Uni
 main_repository/
 │
 ├── client.c
+├── description.pdf
 ├── LICENSE
 ├── README.md
 └── server.c
@@ -117,3 +118,9 @@ gcc -o server server.c -lpthread
 - The client and server communicate via **shared memory, message queues, and signals**
 - Threads and semaphores ensure **safe concurrent access** and menu management
 - Each operation is logged with serial codes and timestamps
+
+---
+
+### License
+
+This project is licensed under the terms of the MIT license. You can find the full license in the `LICENSE` file.
